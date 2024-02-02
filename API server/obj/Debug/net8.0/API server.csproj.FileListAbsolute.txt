@@ -1,0 +1,25 @@
+c:\Users\jesper.asplund\Desktop\Visual Studio Projects\API server\API server\bin\Debug\net8.0\appsettings.Development.json
+c:\Users\jesper.asplund\Desktop\Visual Studio Projects\API server\API server\bin\Debug\net8.0\appsettings.json
+c:\Users\jesper.asplund\Desktop\Visual Studio Projects\API server\API server\bin\Debug\net8.0\API server.exe
+c:\Users\jesper.asplund\Desktop\Visual Studio Projects\API server\API server\bin\Debug\net8.0\API server.deps.json
+c:\Users\jesper.asplund\Desktop\Visual Studio Projects\API server\API server\bin\Debug\net8.0\API server.runtimeconfig.json
+c:\Users\jesper.asplund\Desktop\Visual Studio Projects\API server\API server\bin\Debug\net8.0\API server.dll
+c:\Users\jesper.asplund\Desktop\Visual Studio Projects\API server\API server\bin\Debug\net8.0\API server.pdb
+c:\Users\jesper.asplund\Desktop\Visual Studio Projects\API server\API server\obj\Debug\net8.0\API server.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\jesper.asplund\Desktop\Visual Studio Projects\API server\API server\obj\Debug\net8.0\API server.AssemblyInfoInputs.cache
+c:\Users\jesper.asplund\Desktop\Visual Studio Projects\API server\API server\obj\Debug\net8.0\API server.AssemblyInfo.cs
+c:\Users\jesper.asplund\Desktop\Visual Studio Projects\API server\API server\obj\Debug\net8.0\API server.csproj.CoreCompileInputs.cache
+c:\Users\jesper.asplund\Desktop\Visual Studio Projects\API server\API server\obj\Debug\net8.0\API server.MvcApplicationPartsAssemblyInfo.cache
+c:\Users\jesper.asplund\Desktop\Visual Studio Projects\API server\API server\obj\Debug\net8.0\staticwebassets.build.json
+c:\Users\jesper.asplund\Desktop\Visual Studio Projects\API server\API server\obj\Debug\net8.0\staticwebassets.development.json
+c:\Users\jesper.asplund\Desktop\Visual Studio Projects\API server\API server\obj\Debug\net8.0\staticwebassets\msbuild.API server.Microsoft.AspNetCore.StaticWebAssets.props
+c:\Users\jesper.asplund\Desktop\Visual Studio Projects\API server\API server\obj\Debug\net8.0\staticwebassets\msbuild.build.API server.props
+c:\Users\jesper.asplund\Desktop\Visual Studio Projects\API server\API server\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.API server.props
+c:\Users\jesper.asplund\Desktop\Visual Studio Projects\API server\API server\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.API server.props
+c:\Users\jesper.asplund\Desktop\Visual Studio Projects\API server\API server\obj\Debug\net8.0\staticwebassets.pack.json
+c:\Users\jesper.asplund\Desktop\Visual Studio Projects\API server\API server\obj\Debug\net8.0\scopedcss\bundle\API server.styles.css
+c:\Users\jesper.asplund\Desktop\Visual Studio Projects\API server\API server\obj\Debug\net8.0\API server.dll
+c:\Users\jesper.asplund\Desktop\Visual Studio Projects\API server\API server\obj\Debug\net8.0\refint\API server.dll
+c:\Users\jesper.asplund\Desktop\Visual Studio Projects\API server\API server\obj\Debug\net8.0\API server.pdb
+c:\Users\jesper.asplund\Desktop\Visual Studio Projects\API server\API server\obj\Debug\net8.0\API server.genruntimeconfig.cache
+c:\Users\jesper.asplund\Desktop\Visual Studio Projects\API server\API server\obj\Debug\net8.0\ref\API server.dll

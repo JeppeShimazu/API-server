@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "lAmCFIMdeWTYcWD6K9zHMgd7KkaQ8IvZponGyE+u1BM=",
+  "Source": "API server",
+  "BasePath": "_content/API server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
